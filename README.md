@@ -9,7 +9,8 @@ For the project, I will be assisting the Chinook team with understanding the med
 ## What skills will I use?
 
 The main goal of this project is for me to demonstrate my ability to:
--Write error-free SQL queries
+
+- Write error-free SQL queries
 - use Joins and subqueries correctly in SQL queries
 - Use aggregations correctly in SQL queries
 
